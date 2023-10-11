@@ -1,0 +1,2 @@
+Data read from input.txt: This is sample file.
+createdAt Wed Oct 11 2023 23:09:38 GMT+0530 (India Standard Time)
